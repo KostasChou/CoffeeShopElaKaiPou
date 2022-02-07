@@ -6,6 +6,14 @@ This is the final group project made during the PeopleCert's coding bootcamp. It
  - The Owner of the Coffee Shop can customize (CRUD operations) the products they sell.
  - There is an internal real time communication between customers (whether they have registered as users or not) and admins.
 ---
+
+## Installation
+
+1. Clone this repository to your local system.
+2. Open the `KinoProjectApp.sln` with Visual Studio.
+3. Build and run the project.
+
+
 The project Instructions provided by the bootcamp's instructor are shown below:
 
 ```
