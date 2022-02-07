@@ -10,7 +10,7 @@ This is the final group project made during the PeopleCert's coding bootcamp. It
 ## Installation
 
 1. Clone this repository to your local system.
-2. Open the `KinoProjectApp.sln` with Visual Studio.
+2. Open the `Ela_Kai_Pou.sln` with Visual Studio.
 3. Build and run the project.
 
 
